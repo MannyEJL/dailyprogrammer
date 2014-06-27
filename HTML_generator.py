@@ -2,6 +2,8 @@
 Created on 2014-06-27
 
 @author: Emanuel
+
+http://www.reddit.com/r/dailyprogrammer/comments/289png/6162014_challenge_167_easy_html_markup_generator/
 '''
 import webbrowser
 
