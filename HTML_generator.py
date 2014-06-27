@@ -2,8 +2,6 @@
 Created on 2014-06-27
 
 @author: Emanuel
-
-testing github
 '''
 import webbrowser
 
@@ -40,4 +38,4 @@ if choice == 1:
     para = raw_input("Page contents: ")
     template(title, para)
 elif choice == 2:
-    print "i dont know how to do that yet"
+    print "i dont know how to do that yet."
